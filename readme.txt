@@ -1,4 +1,4 @@
 123
 456
 789
-this is readme.txt
+this is readme
