@@ -1,7 +1,5 @@
 
 this is 1.txt
 1
-this 1.txt
-456
-789
-
+this is 1.txt
+>>>>>>> bb8cc2ee467271e2b0d5903db1a52254ec4fdb44
